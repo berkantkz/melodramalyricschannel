@@ -1,0 +1,14 @@
+{
+  "name": "melodramalyrics",
+  "version": "1.0.0",
+  "description": "melodrama lyrics bot on telegram",
+  "main": "melodrama.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "berkantkz",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
