@@ -7,7 +7,7 @@ on:
         paths:
             
     schedule: 
-        - cron: '*/37 * * * *'
+        - cron: '*/90 * * * *'
 
 jobs:
   build:
